@@ -78,8 +78,6 @@ fabric.properties
 
 .idea/$CACHE_FILE$
 .idea/$PRODUCT_WORKSPACE_FILE$
-.idea/.gitignore
-.idea/Keksobooking.iml
 .idea/misc.xml
 .idea/modules.xml
 .idea/vcs.xml
